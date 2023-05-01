@@ -93,6 +93,32 @@ public class ExecuteLead {
 					key.getCurrentURL();
 				}
 			}
+			if (a.get(i).equals("Quit")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is "+keyword);
+				String testdata = (String) a.get(i + 1);
+				// System.out.println("Testdata is "+testdata);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is "+Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is "+runmode);
+				if (runmode.equals("Yes")) {
+					key.quit();
+				}
+			}
+			if (a.get(i).equals("Input")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is "+keyword);
+				String testdata = (String) a.get(i + 1);
+				// System.out.println("Testdata is "+testdata);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is "+Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is "+runmode);
+				if (runmode.equals("Yes")) {
+					key.Input();
+				}
+			}
 
 		}
 

@@ -15,7 +15,7 @@ public class Keywords extends Environment {
 	}
 
 	public void navigateURL() {
-		d.get("https://www.google.com/maps");
+		d.get("https://opensource-demo.orangehrmlive.com/");
 	}
 
 	public void getTitle() {
@@ -26,6 +26,16 @@ public class Keywords extends Environment {
 	public void getCurrentURL() {
 		System.out.println(d.getCurrentUrl());
 
+	}
+
+	public void quit() {
+		d.quit();
+		
+	}
+
+	public void Input() {
+		
+		
 	}
 
 }
