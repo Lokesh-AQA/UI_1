@@ -11,12 +11,12 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExecuteLead {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, InterruptedException {
 		ArrayList a = new ArrayList();
 		Keywords key = new Keywords();
 		FileInputStream file = new FileInputStream("D:\\Sketch_1\\Git\\UI_1\\UI_001\\XL\\Page_1.xlsx");
 		XSSFWorkbook book = new XSSFWorkbook(file);
-		Sheet sh = book.getSheet("Sheet2");
+		Sheet sh = book.getSheet("OrangeHRM");
 		Iterator itr = sh.iterator();
 		while (itr.hasNext()) {
 			Row rowitr = (Row) itr.next();
@@ -44,7 +44,7 @@ public class ExecuteLead {
 			if (a.get(i).equals("OpenBrowser")) {
 				String keyword = (String) a.get(i);
 				// System.out.println("Keyword is "+keyword);
-				String testdata = (String) a.get(i + 1);
+				String data = (String) a.get(i + 1);
 				// System.out.println("Testdata is "+testdata);
 				String Objectname = (String) a.get(i + 2);
 				// System.out.println("ObjectName is "+Objectname);
@@ -57,7 +57,7 @@ public class ExecuteLead {
 			if (a.get(i).equals("NavigateURL")) {
 				String keyword = (String) a.get(i);
 				// System.out.println("Keyword is "+keyword);
-				String testdata = (String) a.get(i + 1);
+				String data = (String) a.get(i + 1);
 				// System.out.println("Testdata is "+testdata);
 				String Objectname = (String) a.get(i + 2);
 				// System.out.println("ObjectName is "+Objectname);
@@ -70,7 +70,7 @@ public class ExecuteLead {
 			if (a.get(i).equals("GetTitle")) {
 				String keyword = (String) a.get(i);
 				// System.out.println("Keyword is "+keyword);
-				String testdata = (String) a.get(i + 1);
+				String data = (String) a.get(i + 1);
 				// System.out.println("Testdata is "+testdata);
 				String Objectname = (String) a.get(i + 2);
 				// System.out.println("ObjectName is "+Objectname);
@@ -83,7 +83,7 @@ public class ExecuteLead {
 			if (a.get(i).equals("GetCurrentURL")) {
 				String keyword = (String) a.get(i);
 				// System.out.println("Keyword is "+keyword);
-				String testdata = (String) a.get(i + 1);
+				String data = (String) a.get(i + 1);
 				// System.out.println("Testdata is "+testdata);
 				String Objectname = (String) a.get(i + 2);
 				// System.out.println("ObjectName is "+Objectname);
@@ -93,30 +93,58 @@ public class ExecuteLead {
 					key.getCurrentURL();
 				}
 			}
-			if (a.get(i).equals("Quit")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is "+keyword);
-				String testdata = (String) a.get(i + 1);
-				// System.out.println("Testdata is "+testdata);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is "+Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is "+runmode);
-				if (runmode.equals("Yes")) {
-					key.quit();
-				}
-			}
+
 			if (a.get(i).equals("Input")) {
 				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is "+keyword);
-				String testdata = (String) a.get(i + 1);
-				// System.out.println("Testdata is "+testdata);
+				System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				System.out.println("Testdata is " + data);
 				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is "+Objectname);
+				System.out.println("ObjectName is " + Objectname);
 				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is "+runmode);
+				System.out.println("Runmode is " + runmode);
 				if (runmode.equals("Yes")) {
-					key.Input();
+					key.Input(data, Objectname);
+				}
+			}
+			if (a.get(i).equals("Click")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.click(Objectname);
+				}
+			}
+			if (a.get(i).equals("Close")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.close();
+				}
+			}
+			
+			if (a.get(i).equals("Quit")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.quit();
 				}
 			}
 
