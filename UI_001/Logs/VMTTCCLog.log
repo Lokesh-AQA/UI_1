@@ -1,0 +1,222 @@
+2023-05-02 07:46:16,515 [main] DEBUG pack1.Keywords - AAAAAAAAAAAAAAAAa
+2023-05-02 07:49:24,011 [main] DEBUG pack1.Keywords - AAAAAAAAAAAAAAAAa
+2023-05-02 07:53:17,044 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 07:53:25,949 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 07:53:25,959 [main] DEBUG pack1.Keywords - Get Title of the page
+2023-05-02 07:53:25,968 [main] DEBUG pack1.Keywords - Get Current URL of the page
+2023-05-02 07:53:26,725 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 07:53:28,826 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 07:53:32,068 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 07:53:36,220 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 07:54:37,616 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 07:54:52,842 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 07:54:52,849 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 07:54:52,857 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 07:54:53,828 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 07:54:55,936 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 07:54:59,088 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 07:55:03,214 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:00:20,790 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:00:35,902 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:00:35,910 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:00:35,919 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:00:36,771 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:00:38,852 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:00:42,065 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:00:46,204 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:09:43,487 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:09:49,800 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:09:49,810 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:09:49,818 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:09:50,385 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:09:52,473 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:09:55,577 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:09:59,700 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:18:24,368 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:18:32,255 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:18:32,263 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:18:32,270 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:18:33,016 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:18:35,100 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:18:38,261 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:18:42,383 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:19:04,073 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:19:07,575 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:19:07,585 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:19:07,597 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:19:08,142 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:19:10,224 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:19:13,392 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:19:17,495 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:23:20,178 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:23:25,557 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:23:25,565 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:23:25,575 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:23:26,137 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:23:28,229 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:23:31,650 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:23:35,775 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:25:40,912 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:25:47,188 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:25:47,199 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:25:47,207 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:25:47,900 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:25:49,997 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:25:53,130 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:25:57,241 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:26:08,262 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:26:11,694 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:26:11,704 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:26:11,711 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:26:12,274 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:26:14,358 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:26:17,518 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:26:21,626 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:26:52,911 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:26:56,595 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:26:56,602 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:26:56,613 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:26:57,163 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:26:59,255 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:27:02,367 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:27:06,462 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 08:58:00,608 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 08:58:04,240 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 08:58:04,247 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 08:58:04,252 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 08:58:04,853 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:58:06,943 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 08:58:10,034 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 08:58:14,154 [main] DEBUG pack1.Keywords - Close the browser
+2023-05-02 09:05:22,117 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 09:05:26,072 [main] DEBUG pack1.Keywords - Navigate URL
+2023-05-02 09:05:26,078 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 09:05:26,084 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 09:05:26,634 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 09:05:28,727 [main] DEBUG pack1.Keywords - Input value given
+2023-05-02 09:05:31,900 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 09:05:34,708 [main] DEBUG pack1.Keywords - Clicked the element
+2023-05-02 09:12:24,737 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 09:12:30,701 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 09:12:30,710 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 09:12:30,716 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 09:12:31,262 [main] DEBUG pack1.Keywords - Input value given: Username
+2023-05-02 09:12:33,363 [main] DEBUG pack1.Keywords - Input value given: Password
+2023-05-02 09:12:36,480 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 09:12:39,320 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 09:17:58,048 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 09:18:01,993 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 09:18:02,000 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 09:18:02,005 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 09:18:02,611 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 09:18:04,699 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 09:18:06,755 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 09:18:09,998 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:00:56,459 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:01:00,057 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:01:00,065 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:01:00,070 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:01:00,625 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:01:02,727 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:01:04,789 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:01:08,080 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:01:10,702 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:01:51,055 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:01:54,098 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:01:54,105 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:01:54,112 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:01:54,524 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:01:56,603 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:01:58,684 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:02:01,982 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:02:04,486 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:08:55,115 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:08:58,045 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:08:58,052 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:08:58,058 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:08:58,452 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:09:00,531 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:09:03,625 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:09:06,593 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:09:09,079 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:13:10,419 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:13:15,832 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:13:15,844 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:13:15,849 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:13:16,407 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:13:18,511 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:13:20,561 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:13:23,575 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:13:26,061 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:28:58,011 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:29:03,278 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:29:03,285 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:29:03,289 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:29:03,678 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:29:05,780 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:29:07,831 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:29:11,238 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:29:13,767 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:34:55,005 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:34:59,913 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:34:59,919 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:34:59,924 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:35:00,327 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:35:02,403 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:35:04,469 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:35:07,967 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:35:10,768 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:43:31,846 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:43:36,579 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:43:36,579 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:43:36,594 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:43:37,008 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:43:39,088 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:43:41,153 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:43:44,457 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:43:46,964 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:44:14,537 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:44:17,644 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:44:17,652 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:44:17,656 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:44:18,060 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:44:20,151 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:44:22,202 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:44:25,574 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:44:28,131 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:54:09,065 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:54:13,548 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:54:13,674 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:54:13,690 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:54:13,959 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:54:16,198 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:54:18,414 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:54:21,597 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:54:24,229 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:55:26,843 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:55:31,537 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:55:31,657 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:55:31,657 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:55:32,108 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:55:34,335 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:55:36,545 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:55:39,814 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:55:42,440 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:56:46,276 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:56:49,304 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:56:49,463 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:56:49,469 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:56:49,735 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:56:52,004 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:56:54,247 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:56:57,565 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:57:00,208 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button
+2023-05-02 10:58:24,842 [main] DEBUG pack1.Keywords - Browser Opened
+2023-05-02 10:58:27,782 [main] DEBUG pack1.Keywords - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 10:58:27,917 [main] DEBUG pack1.Keywords - Get Title of the page:OrangeHRM
+2023-05-02 10:58:27,922 [main] DEBUG pack1.Keywords - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 10:58:28,194 [main] DEBUG pack1.Keywords - Input value given for: Username
+2023-05-02 10:58:30,384 [main] DEBUG pack1.Keywords - Input value given for: Password
+2023-05-02 10:58:34,102 [main] DEBUG pack1.Keywords - Clicked the element: LoginButton
+2023-05-02 10:58:37,174 [main] DEBUG pack1.Keywords - Clicked the element: Admin
+2023-05-02 10:58:40,140 [main] DEBUG pack1.Keywords - Clicked the element: Add_Button

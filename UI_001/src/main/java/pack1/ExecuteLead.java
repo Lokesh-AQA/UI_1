@@ -4,14 +4,17 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
+
+import org.apache.log4j.PropertyConfigurator;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExecuteLead {
-
+	
 	public static void main(String[] args) throws IOException, InterruptedException {
+		PropertyConfigurator.configure("D:\\Sketch_1\\Git\\UI_1\\UI_001\\Properties\\log4j.properties");
 		ArrayList a = new ArrayList();
 		Keywords key = new Keywords();
 		FileInputStream file = new FileInputStream("D:\\Sketch_1\\Git\\UI_1\\UI_001\\XL\\Page_1.xlsx");
@@ -51,7 +54,7 @@ public class ExecuteLead {
 				String runmode = (String) a.get(i + 3);
 				// System.out.println("Runmode is "+runmode);
 				if (runmode.equals("Yes")) {
-					key.openbrowser();
+					key.invokebrowser();
 				}
 			}
 			if (a.get(i).equals("NavigateURL")) {
@@ -64,7 +67,7 @@ public class ExecuteLead {
 				String runmode = (String) a.get(i + 3);
 				// System.out.println("Runmode is "+runmode);
 				if (runmode.equals("Yes")) {
-					key.navigateURL();
+					key.navigateURL(data);
 				}
 			}
 			if (a.get(i).equals("GetTitle")) {
@@ -96,13 +99,13 @@ public class ExecuteLead {
 
 			if (a.get(i).equals("Input")) {
 				String keyword = (String) a.get(i);
-				System.out.println("Keyword is " + keyword);
+				// System.out.println("Keyword is " + keyword);
 				String data = (String) a.get(i + 1);
-				System.out.println("Testdata is " + data);
+				// System.out.println("Testdata is " + data);
 				String Objectname = (String) a.get(i + 2);
-				System.out.println("ObjectName is " + Objectname);
+				// System.out.println("ObjectName is " + Objectname);
 				String runmode = (String) a.get(i + 3);
-				System.out.println("Runmode is " + runmode);
+				// System.out.println("Runmode is " + runmode);
 				if (runmode.equals("Yes")) {
 					key.Input(data, Objectname);
 				}
@@ -145,6 +148,19 @@ public class ExecuteLead {
 				// System.out.println("Runmode is " + runmode);
 				if (runmode.equals("Yes")) {
 					key.quit();
+				}
+			}
+			if (a.get(i).equals("Dropdown")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.dropdown(data,Objectname);
 				}
 			}
 
