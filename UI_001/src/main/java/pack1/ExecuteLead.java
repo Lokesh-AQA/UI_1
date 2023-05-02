@@ -1,5 +1,6 @@
 package pack1;
 
+import java.awt.AWTException;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,7 +14,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExecuteLead {
 	
-	public static void main(String[] args) throws IOException, InterruptedException {
+	public static void main(String[] args) throws IOException, InterruptedException, AWTException {
 		PropertyConfigurator.configure("D:\\Sketch_1\\Git\\UI_1\\UI_001\\Properties\\log4j.properties");
 		ArrayList a = new ArrayList();
 		Keywords key = new Keywords();
@@ -163,6 +164,98 @@ public class ExecuteLead {
 					key.dropdown(data,Objectname);
 				}
 			}
+			if (a.get(i).equals("ScrollDownEND")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.scrollDownEnd(data,Objectname);
+				}
+			}
+			if (a.get(i).equals("ScrollUpHOME")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.scrollUpHome(data,Objectname);
+				}
+			}
+			if (a.get(i).equals("JumbTab")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.Jumbtab(data);
+				}
+			}
+			if (a.get(i).equals("NewTab")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.Newtab();
+				}
+			}
+			if (a.get(i).equals("CopyContent")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.copyContent(data);
+				}
+			}
+			if (a.get(i).equals("FileUpload")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.fileUpload();
+				}
+			}
+			if (a.get(i).equals("MouseClick")) {
+				String keyword = (String) a.get(i);
+				// System.out.println("Keyword is " + keyword);
+				String data = (String) a.get(i + 1);
+				// System.out.println("Testdata is " + data);
+				String Objectname = (String) a.get(i + 2);
+				// System.out.println("ObjectName is " + Objectname);
+				String runmode = (String) a.get(i + 3);
+				// System.out.println("Runmode is " + runmode);
+				if (runmode.equals("Yes")) {
+					key.mouseClick(Objectname);
+				}
+			}
+
 
 		}
 

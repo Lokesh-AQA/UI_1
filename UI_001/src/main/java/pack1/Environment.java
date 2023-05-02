@@ -1,5 +1,9 @@
 package pack1;
 
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
+import java.awt.datatransfer.StringSelection;
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
@@ -8,6 +12,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.interactions.Actions;
 
 public class Environment {
 	
@@ -19,6 +24,11 @@ public class Environment {
 	public static TakesScreenshot Shot ;
 	public static File SrcFile;
 	public static File DestFile;
+	public static Robot robot;
+	public static Toolkit toolkit;
+	public static Clipboard clipboard;
+	public static StringSelection strStore;
+	public static  Actions action;
 	
 	
 
