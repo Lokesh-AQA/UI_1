@@ -1,10 +1,10 @@
 package pack1;
 
 import java.awt.AWTException;
-import java.awt.HeadlessException;
 import java.io.IOException;
-import org.openqa.selenium.JavascriptExecutor;
 
+import org.openqa.selenium.JavascriptExecutor;
+import org.testng.Assert;
 
 public class Keywords extends Environment {
 
@@ -16,8 +16,9 @@ public class Keywords extends Environment {
 			d.manage().deleteAllCookies();
 			log.debug("Browser Opened");
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+			log.error("Fail,unable to launch browser: " + data);
 			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
@@ -26,9 +27,10 @@ public class Keywords extends Environment {
 		try {
 			MainClass.navigateURL(data);
 			MainClass.captureScreen();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to navigate URL: " + data);
 			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
@@ -37,8 +39,9 @@ public class Keywords extends Environment {
 			Thread.sleep(500);
 			MainClass.getTitle();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+			log.error("Fail,unable to GetTitle from page");
 			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
@@ -47,24 +50,21 @@ public class Keywords extends Environment {
 			Thread.sleep(500);
 			MainClass.getCurrentURL();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+			log.error("Fail,unable to GetCurrentURL from page");
 			e.printStackTrace();
+			Assert.fail();
 		}
-
 	}
 
 	public void Input(String data, String Objectname) throws IOException, InterruptedException {
-
 		try {
 			MainClass.loadPropertyFile();
 			MainClass.passInput(data, Objectname);
 			MainClass.captureScreen();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to pass input value: " + Objectname);
 			e.printStackTrace();
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
@@ -73,12 +73,10 @@ public class Keywords extends Environment {
 			MainClass.loadPropertyFile();
 			MainClass.clickElement(objectname);
 			MainClass.captureScreen();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to click the element: " + objectname);
 			e.printStackTrace();
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
@@ -87,11 +85,11 @@ public class Keywords extends Environment {
 			Thread.sleep(2000);
 			d.close();
 			log.debug("Close the browser");
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to Close windows");
 			e.printStackTrace();
+			Assert.fail();
 		}
-
 	}
 
 	public void quit() throws InterruptedException {
@@ -99,21 +97,21 @@ public class Keywords extends Environment {
 			Thread.sleep(2000);
 			d.quit();
 			log.debug("Quit all the browser");
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to Quit windows");
 			e.printStackTrace();
+			Assert.fail();
 		}
-
 	}
 
 	public void dropdown(String data, String objectname) throws InterruptedException, IOException {
 		try {
-			Thread.sleep(1000);
 			MainClass.selectDropdown(data, objectname);
 			MainClass.captureScreen();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to perform Dropdown field: " + objectname);
 			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
@@ -123,11 +121,11 @@ public class Keywords extends Environment {
 			js.executeScript("window.scrollBy(0,10000)");
 			log.debug("ScrollDown till End");
 			MainClass.captureScreen();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to Scrolldown till END");
 			e.printStackTrace();
+			Assert.fail();
 		}
-
 	}
 
 	public void scrollUpHome(String data, String objectname) throws IOException {
@@ -136,52 +134,43 @@ public class Keywords extends Environment {
 			js.executeScript("window.scrollBy(0,-10000)");
 			log.debug("ScrollUp till Home");
 			MainClass.captureScreen();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to Scrollup till HOME");
 			e.printStackTrace();
+			Assert.fail();
 		}
 	}
 
-	@SuppressWarnings("unused")
 	public void Jumbtab(String data) throws IOException, InterruptedException {
 		try {
 			Thread.sleep(2000);
 			MainClass.jumpTab(data);
 			MainClass.captureScreen();
-
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to Jump Tab: " + data);
 			e.printStackTrace();
-
+			Assert.fail();
 		}
 	}
 
 	public void copyContent(String data) throws InterruptedException {
 		try {
-			Thread.sleep(1000);
+			Thread.sleep(500);
 			MainClass.copydata(data);
-
-		} catch (HeadlessException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to Copy data: " + data);
 			e.printStackTrace();
 		}
-
 	}
 
 	public void fileUpload() throws IOException, AWTException, InterruptedException {
-
 		try {
 			MainClass.robotClass();
 			MainClass.captureScreen();
-
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to perform RobotClass: Fileupload");
 			e.printStackTrace();
 		}
-
 	}
 
 	public void mouseClick(String objectname) {
@@ -189,10 +178,9 @@ public class Keywords extends Environment {
 			Thread.sleep(1000);
 			MainClass.mouseClick(objectname);
 		} catch (Exception e) {
-
+			log.error("Fail,unable to perform Mouse Click: " + data);
 			e.printStackTrace();
 		}
-
 	}
 
 	public void Newtab() throws InterruptedException, IOException {
@@ -200,12 +188,9 @@ public class Keywords extends Environment {
 			Thread.sleep(1000);
 			MainClass.newTab();
 			MainClass.captureScreen();
-
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
+		} catch (Exception e) {
+			log.error("Fail,unable to open New Tab");
 			e.printStackTrace();
 		}
-
 	}
-
 }

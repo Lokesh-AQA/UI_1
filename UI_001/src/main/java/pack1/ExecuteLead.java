@@ -11,15 +11,17 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.testng.annotations.Test;
 
-public class ExecuteLead {
-	
-	@SuppressWarnings({ "rawtypes", "incomplete-switch", "unchecked", "unused", "resource" })
-	public static void main(String[] args) throws IOException, InterruptedException, AWTException {
-		PropertyConfigurator.configure(System.getProperty("user.dir")+"\\Properties\\log4j.properties");
-		ArrayList a = new ArrayList();
+public class ExecuteLead extends Environment {
+
+	@SuppressWarnings({ "rawtypes", "incomplete-switch", "unchecked", "resource" })
+	@Test
+	public static void main() throws IOException, InterruptedException, AWTException {
+		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\Properties\\log4j.properties");
+		a = new ArrayList();
 		Keywords key = new Keywords();
-		FileInputStream file = new FileInputStream(System.getProperty("user.dir")+"\\XL\\Page_1.xlsx");
+		FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\XL\\Page_1.xlsx");
 		XSSFWorkbook book = new XSSFWorkbook(file);
 		Sheet sh = book.getSheet("OrangeHRM");
 		Iterator itr = sh.iterator();
@@ -42,222 +44,106 @@ public class ExecuteLead {
 					// System.out.println(celldata.getBooleanCellValue());
 					break;
 				}
-
 			}
 		}
 		for (int i = 0; i < a.size(); i++) {
 			if (a.get(i).equals("InvokeBrowser")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is "+keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is "+testdata);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is "+Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is "+runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.invokebrowser(data);
 				}
 			}
 			if (a.get(i).equals("NavigateURL")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is "+keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is "+testdata);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is "+Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is "+runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.navigateURL(data);
 				}
 			}
 			if (a.get(i).equals("GetTitle")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is "+keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is "+testdata);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is "+Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is "+runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.getTitle();
 				}
 			}
 			if (a.get(i).equals("GetCurrentURL")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is "+keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is "+testdata);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is "+Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is "+runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.getCurrentURL();
 				}
 			}
 
 			if (a.get(i).equals("Input")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.Input(data, Objectname);
 				}
 			}
 			if (a.get(i).equals("Click")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.click(Objectname);
 				}
 			}
 			if (a.get(i).equals("Close")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.close();
 				}
 			}
-			
 			if (a.get(i).equals("Quit")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.quit();
 				}
 			}
 			if (a.get(i).equals("Dropdown")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.dropdown(data,Objectname);
+					key.dropdown(data, Objectname);
 				}
 			}
 			if (a.get(i).equals("ScrollDownEND")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.scrollDownEnd(data,Objectname);
+					key.scrollDownEnd(data, Objectname);
 				}
 			}
 			if (a.get(i).equals("ScrollUpHOME")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.scrollUpHome(data,Objectname);
+					key.scrollUpHome(data, Objectname);
 				}
 			}
 			if (a.get(i).equals("JumbTab")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.Jumbtab(data);
 				}
 			}
 			if (a.get(i).equals("NewTab")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.Newtab();
 				}
 			}
 			if (a.get(i).equals("CopyContent")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);C:\Users\Lokesh\Desktop\STUB Data.txt
-				
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " +runmode); 
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.copyContent(data);
 				}
 			}
 			if (a.get(i).equals("FileUpload")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.fileUpload();
 				}
 			}
 			if (a.get(i).equals("MouseClick")) {
-				String keyword = (String) a.get(i);
-				// System.out.println("Keyword is " + keyword);
-				String data = (String) a.get(i + 1);
-				// System.out.println("Testdata is " + data);
-				String Objectname = (String) a.get(i + 2);
-				// System.out.println("ObjectName is " + Objectname);
-				String runmode = (String) a.get(i + 3);
-				// System.out.println("Runmode is " + runmode);
+				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.mouseClick(Objectname);
 				}
 			}
 		}
-
 	}
 }

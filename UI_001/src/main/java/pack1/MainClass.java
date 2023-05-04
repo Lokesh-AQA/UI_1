@@ -13,6 +13,7 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Properties;
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -31,6 +32,17 @@ import org.openqa.selenium.support.ui.Select;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class MainClass extends Environment {
+
+	public static void dataIndexValue(int i) {
+		keyword = (String) a.get(i);
+		// System.out.println("Keyword is "+keyword);
+		data = (String) a.get(i + 1);
+		// System.out.println("Testdata is "+testdata);
+		Objectname = (String) a.get(i + 2);
+		// System.out.println("ObjectName is "+Objectname);
+		runmode = (String) a.get(i + 3);
+		// System.out.println("Runmode is "+runmode);
+	}
 
 	public static void browserOptions(String data) {
 		if (data.equals("Chrome")) {
@@ -54,8 +66,6 @@ public class MainClass extends Environment {
 			options.addArguments("--incognito");
 			d = new EdgeDriver(options);
 		}
-		
-
 	}
 
 	public static void captureScreen() throws IOException {
@@ -64,11 +74,9 @@ public class MainClass extends Environment {
 		DestFile = new File(
 				System.getProperty("user.dir") + "\\Screenshots\\Passed Testcases\\Evident_" + timestamp() + ".jpeg");
 		FileUtils.copyFile(SrcFile, DestFile);
-		// log.debug("Screenshots Taken");
-
 	}
 
-	private static String timestamp() {
+	public static String timestamp() {
 		SimpleDateFormat f = new SimpleDateFormat("HH.mm.ss");
 		return f.format(new Date());
 	}
@@ -81,29 +89,26 @@ public class MainClass extends Environment {
 		d.get(data);
 		long endtime = System.currentTimeMillis();
 		long totaltime = endtime - starttime;
-		log.debug("TimeTaken for URL Launched--" + totaltime + " milliseconds");
 		log.debug("Navigate URL: " + data);
-
+		log.debug("TimeTaken for URL Launched: " + totaltime + " milliseconds");
 	}
 
 	public static void loadPropertyFile() throws IOException {
 		file = new FileInputStream(System.getProperty("user.dir") + "\\Properties\\OrangeHRM.properties");
 		pro = new Properties();
 		pro.load(file);
-		
 	}
 
 	public static void passInput(String data, String Objectname) throws InterruptedException {
+		Thread.sleep(1000);
 		d.findElement(By.xpath(pro.getProperty(Objectname))).sendKeys(data);
 		log.debug("Input value given for: " + Objectname);
-		Thread.sleep(1500);
 	}
 
 	public static void clickElement(String objectname) throws InterruptedException {
+		Thread.sleep(1000);
 		d.findElement(By.xpath(pro.getProperty(objectname))).click();
 		log.debug("Clicked the element: " + objectname);
-		Thread.sleep(1500);
-		
 	}
 
 	public static void robotClass() throws AWTException {
@@ -114,30 +119,28 @@ public class MainClass extends Environment {
 		robot.keyPress(KeyEvent.VK_V);
 		robot.keyRelease(KeyEvent.VK_CONTROL);
 		robot.keyRelease(KeyEvent.VK_V);
-	    robot.keyPress(KeyEvent.VK_ENTER);
-	    robot.keyRelease(KeyEvent.VK_ENTER);
-	    log.debug("File Uploaded");
-		
+		robot.keyPress(KeyEvent.VK_ENTER);
+		robot.keyRelease(KeyEvent.VK_ENTER);
+		log.debug("File Uploaded");
 	}
 
-	public static void mouseClick(String objectname) {
+	public static void mouseClick(String objectname) throws InterruptedException {
+		Thread.sleep(1000);
 		action = new Actions(d);
 		WebElement element = d.findElement(By.xpath(pro.getProperty(objectname)));
 		action.moveToElement(element).click().build().perform();
 		log.debug("Mouse Over on the partcular element i.e." + objectname);
-
 	}
 
-	public static void newTab() {
+	public static void newTab() throws InterruptedException {
+		Thread.sleep(500);
 		((JavascriptExecutor) d).executeScript("window.open();");
 		ArrayList<String> allTab = new ArrayList<String>(d.getWindowHandles());
 		d.switchTo().window((String) allTab.get(1));
 		log.debug("Shifted to Next Tab");
-		
 	}
 
 	public static void copydata(String data) {
-		// TODO Auto-generated method stub
 		toolkit = Toolkit.getDefaultToolkit();
 		clipboard = toolkit.getSystemClipboard();
 		strStore = new StringSelection(data);
@@ -153,26 +156,23 @@ public class MainClass extends Environment {
 		ArrayList<String> allTab = new ArrayList<String>(d.getWindowHandles());
 		d.switchTo().window((String) allTab.get(indexValue));
 		log.debug("Changed to " + "[" + indexValue + "]" + " Tab");
-		
 	}
 
-	public static void selectDropdown(String data, String objectname) {
+	public static void selectDropdown(String data, String objectname) throws InterruptedException {
+		Thread.sleep(1000);
 		d.findElement(By.xpath(pro.getProperty(objectname))).click();
 		WebElement element = d.findElement(By.xpath(pro.getProperty(objectname)));
 		Select select = new Select(element);
 		select.selectByVisibleText(data);
-		
 	}
 
 	public static void getTitle() {
 		String getTile = d.getTitle();
-		log.debug("Get Title of the page:" + getTile );
-		
+		log.debug("Get Title of the page: " + getTile);
 	}
 
 	public static void getCurrentURL() {
 		String getCurrentURL = d.getCurrentUrl();
-		log.debug("Get Current URL of the page:" + getCurrentURL);
-		
+		log.debug("Get Current URL of the page: " + getCurrentURL);
 	}
 }
