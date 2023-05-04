@@ -1,222 +1,710 @@
-2023-05-02 07:46:16,515 - pack1.Keywords -DEBUG - AAAAAAAAAAAAAAAAa
-2023-05-02 07:49:24,011 - pack1.Keywords -DEBUG - AAAAAAAAAAAAAAAAa
-2023-05-02 07:53:17,044 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 07:53:25,949 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 07:53:25,959 - pack1.Keywords -DEBUG - Get Title of the page
-2023-05-02 07:53:25,968 - pack1.Keywords -DEBUG - Get Current URL of the page
-2023-05-02 07:53:26,725 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 07:53:28,826 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 07:53:32,068 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 07:53:36,220 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 07:54:37,616 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 07:54:52,842 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 07:54:52,849 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 07:54:52,857 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 07:54:53,828 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 07:54:55,936 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 07:54:59,088 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 07:55:03,214 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:00:20,790 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:00:35,902 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:00:35,910 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:00:35,919 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:00:36,771 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:00:38,852 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:00:42,065 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:00:46,204 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:09:43,487 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:09:49,800 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:09:49,810 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:09:49,818 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:09:50,385 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:09:52,473 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:09:55,577 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:09:59,700 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:18:24,368 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:18:32,255 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:18:32,263 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:18:32,270 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:18:33,016 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:18:35,100 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:18:38,261 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:18:42,383 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:19:04,073 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:19:07,575 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:19:07,585 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:19:07,597 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:19:08,142 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:19:10,224 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:19:13,392 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:19:17,495 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:23:20,178 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:23:25,557 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:23:25,565 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:23:25,575 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:23:26,137 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:23:28,229 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:23:31,650 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:23:35,775 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:25:40,912 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:25:47,188 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:25:47,199 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:25:47,207 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:25:47,900 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:25:49,997 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:25:53,130 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:25:57,241 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:26:08,262 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:26:11,694 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:26:11,704 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:26:11,711 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:26:12,274 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:26:14,358 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:26:17,518 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:26:21,626 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:26:52,911 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:26:56,595 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:26:56,602 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:26:56,613 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:26:57,163 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:26:59,255 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:27:02,367 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:27:06,462 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 08:58:00,608 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 08:58:04,240 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 08:58:04,247 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 08:58:04,252 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 08:58:04,853 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:58:06,943 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 08:58:10,034 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 08:58:14,154 - pack1.Keywords -DEBUG - Close the browser
-2023-05-02 09:05:22,117 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 09:05:26,072 - pack1.Keywords -DEBUG - Navigate URL
-2023-05-02 09:05:26,078 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 09:05:26,084 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 09:05:26,634 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 09:05:28,727 - pack1.Keywords -DEBUG - Input value given
-2023-05-02 09:05:31,900 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 09:05:34,708 - pack1.Keywords -DEBUG - Clicked the element
-2023-05-02 09:12:24,737 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 09:12:30,701 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 09:12:30,710 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 09:12:30,716 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 09:12:31,262 - pack1.Keywords -DEBUG - Input value given: Username
-2023-05-02 09:12:33,363 - pack1.Keywords -DEBUG - Input value given: Password
-2023-05-02 09:12:36,480 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 09:12:39,320 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 09:17:58,048 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 09:18:01,993 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 09:18:02,000 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 09:18:02,005 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 09:18:02,611 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 09:18:04,699 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 09:18:06,755 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 09:18:09,998 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:00:56,459 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:01:00,057 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:01:00,065 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:01:00,070 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:01:00,625 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:01:02,727 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:01:04,789 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:01:08,080 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:01:10,702 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:01:51,055 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:01:54,098 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:01:54,105 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:01:54,112 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:01:54,524 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:01:56,603 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:01:58,684 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:02:01,982 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:02:04,486 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:08:55,115 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:08:58,045 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:08:58,052 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:08:58,058 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:08:58,452 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:09:00,531 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:09:03,625 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:09:06,593 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:09:09,079 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:13:10,419 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:13:15,832 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:13:15,844 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:13:15,849 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:13:16,407 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:13:18,511 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:13:20,561 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:13:23,575 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:13:26,061 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:28:58,011 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:29:03,278 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:29:03,285 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:29:03,289 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:29:03,678 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:29:05,780 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:29:07,831 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:29:11,238 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:29:13,767 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:34:55,005 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:34:59,913 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:34:59,919 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:34:59,924 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:35:00,327 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:35:02,403 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:35:04,469 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:35:07,967 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:35:10,768 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:43:31,846 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:43:36,579 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:43:36,579 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:43:36,594 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:43:37,008 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:43:39,088 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:43:41,153 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:43:44,457 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:43:46,964 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:44:14,537 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:44:17,644 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:44:17,652 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:44:17,656 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:44:18,060 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:44:20,151 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:44:22,202 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:44:25,574 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:44:28,131 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:54:09,065 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:54:13,548 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:54:13,674 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:54:13,690 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:54:13,959 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:54:16,198 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:54:18,414 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:54:21,597 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:54:24,229 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:55:26,843 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:55:31,537 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:55:31,657 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:55:31,657 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:55:32,108 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:55:34,335 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:55:36,545 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:55:39,814 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:55:42,440 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:56:46,276 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:56:49,304 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:56:49,463 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:56:49,469 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:56:49,735 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:56:52,004 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:56:54,247 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:56:57,565 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:57:00,208 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
-2023-05-02 10:58:24,842 - pack1.Keywords -DEBUG - Browser Opened
-2023-05-02 10:58:27,782 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
-2023-05-02 10:58:27,917 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
-2023-05-02 10:58:27,922 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-2023-05-02 10:58:28,194 - pack1.Keywords -DEBUG - Input value given for: Username
-2023-05-02 10:58:30,384 - pack1.Keywords -DEBUG - Input value given for: Password
-2023-05-02 10:58:34,102 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
-2023-05-02 10:58:37,174 - pack1.Keywords -DEBUG - Clicked the element: Admin
-2023-05-02 10:58:40,140 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 11:51:13,005 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 11:51:17,086 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 11:51:17,231 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 11:51:17,236 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 11:51:17,564 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 11:51:19,845 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 11:51:22,103 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 11:51:25,371 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 11:51:28,041 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 11:51:30,203 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 11:52:34,954 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 11:52:37,918 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 11:52:38,075 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 11:52:38,082 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 11:52:38,335 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 11:52:40,569 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 11:52:42,792 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 11:52:46,305 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 11:52:49,002 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 11:52:51,185 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 11:52:51,354 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 11:58:28,492 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 11:58:31,496 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 11:58:31,628 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 11:58:31,634 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 11:58:31,897 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 11:58:34,109 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 11:58:37,368 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 11:58:40,359 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 11:58:42,998 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 11:58:45,149 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 11:58:45,311 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 11:58:47,591 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:01:47,227 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:01:51,207 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:01:51,208 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3975
+2023-05-02 12:01:51,360 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:01:51,367 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:01:51,616 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:01:53,913 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:01:56,160 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:01:59,468 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:02:02,132 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 12:02:04,286 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:02:04,474 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:02:06,762 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:07:30,937 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:07:35,150 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:07:35,150 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4205 milliseconds
+2023-05-02 12:07:35,301 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:07:35,307 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:07:35,556 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:07:37,785 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:07:41,075 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:07:44,149 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:07:46,761 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 12:07:48,903 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:07:49,087 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:07:50,452 - pack1.Keywords -DEBUG - New Tab Opened Successfully
+2023-05-02 12:07:52,626 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:08:46,897 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:08:49,835 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:08:49,835 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2932 milliseconds
+2023-05-02 12:08:49,973 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:08:49,978 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:08:50,241 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:08:51,938 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:08:53,605 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:08:56,860 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:08:59,038 - pack1.Keywords -DEBUG - Clicked the element: Add_Button
+2023-05-02 12:09:00,720 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:09:00,889 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:09:02,270 - pack1.Keywords -DEBUG - New Tab Opened Successfully
+2023-05-02 12:09:04,453 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:28:24,718 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:28:28,333 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:28:28,333 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3607 milliseconds
+2023-05-02 12:28:28,472 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:28:28,478 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:28:28,789 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:28:30,533 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:28:32,257 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:28:35,219 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:28:37,501 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:28:39,203 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:28:39,387 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:28:40,809 - pack1.Keywords -DEBUG - New Tab Opened Successfully
+2023-05-02 12:28:42,764 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:28:42,764 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--1952 milliseconds
+2023-05-02 12:28:42,944 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:28:44,716 - pack1.Keywords -DEBUG - Copied the Given Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:28:47,870 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:33:04,709 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:33:08,083 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:33:08,083 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3368 milliseconds
+2023-05-02 12:33:08,231 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:33:08,237 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:33:08,486 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:33:10,195 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:33:11,891 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:33:14,894 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:33:17,044 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:33:18,720 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:33:18,914 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:33:20,328 - pack1.Keywords -DEBUG - New Tab Opened Successfully
+2023-05-02 12:33:23,182 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:33:23,182 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2851 milliseconds
+2023-05-02 12:33:23,418 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:33:25,133 - pack1.Keywords -DEBUG - Copied the Given Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:33:28,277 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:36:13,842 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:36:16,861 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:36:16,861 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3013 milliseconds
+2023-05-02 12:36:16,990 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:36:16,996 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:36:17,310 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:36:19,008 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:36:21,728 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:36:24,330 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:36:26,482 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:36:28,185 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:36:28,341 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:36:29,706 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:36:32,772 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:36:32,774 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3066 milliseconds
+2023-05-02 12:36:32,982 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:36:34,712 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:36:37,864 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:37:51,517 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:37:54,922 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:37:54,923 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3392 milliseconds
+2023-05-02 12:37:55,062 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:37:55,068 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:37:55,329 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:37:57,039 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:37:59,750 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:38:02,311 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:38:04,413 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:38:06,136 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:38:06,334 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:38:07,705 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:38:10,553 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:38:10,554 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2848 milliseconds
+2023-05-02 12:38:10,806 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:38:11,846 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:38:15,621 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:38:50,729 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:38:53,762 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:38:53,762 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3027 milliseconds
+2023-05-02 12:38:53,886 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:38:53,892 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:38:54,225 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:38:55,933 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:38:57,595 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:39:00,800 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:39:02,976 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:39:04,689 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:39:04,860 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:39:06,238 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:39:11,950 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:39:11,950 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5711 milliseconds
+2023-05-02 12:39:12,186 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:39:13,233 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:39:17,089 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:40:21,976 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:40:25,073 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:40:25,074 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3090 milliseconds
+2023-05-02 12:40:25,222 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:40:25,229 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:40:25,521 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:40:27,221 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:40:28,909 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:40:31,900 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:40:34,009 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:40:35,692 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:40:35,872 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:40:37,212 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:40:39,564 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:40:39,564 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2352 milliseconds
+2023-05-02 12:40:39,820 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:40:40,862 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:40:44,640 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:40:57,121 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:41:00,014 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:41:00,014 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2886 milliseconds
+2023-05-02 12:41:00,142 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:41:00,148 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:41:00,424 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:41:02,128 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:41:03,799 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:41:06,806 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:41:08,941 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:41:10,623 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:41:10,789 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:41:12,200 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:41:18,362 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:41:18,363 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--6159 milliseconds
+2023-05-02 12:41:18,606 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:41:19,661 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:41:23,524 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:46:56,911 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:46:59,997 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:46:59,997 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3079 milliseconds
+2023-05-02 12:47:00,118 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:47:00,122 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:47:00,409 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:47:02,107 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:47:03,790 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:47:06,619 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:47:08,757 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:47:10,424 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:47:10,591 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:47:11,968 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:47:17,148 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:47:17,148 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5164 milliseconds
+2023-05-02 12:47:17,390 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:47:18,440 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:47:22,235 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:55:55,384 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:56:00,112 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:56:00,112 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4720 milliseconds
+2023-05-02 12:56:00,252 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:56:00,267 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:56:00,514 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:56:02,238 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:56:03,898 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:56:06,791 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:56:08,936 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:56:10,637 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:56:10,819 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:56:12,179 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:56:14,200 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:56:14,200 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2016 milliseconds
+2023-05-02 12:56:14,421 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:56:15,465 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:56:19,248 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 12:58:14,438 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 12:58:17,615 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 12:58:17,615 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3170 milliseconds
+2023-05-02 12:58:17,761 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 12:58:17,767 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 12:58:18,127 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 12:58:19,881 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 12:58:21,584 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 12:58:25,259 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 12:58:27,457 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 12:58:29,135 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 12:58:29,363 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 12:58:30,781 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 12:58:33,646 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 12:58:33,646 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2859 milliseconds
+2023-05-02 12:58:33,824 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 12:58:34,864 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 12:58:38,664 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 13:04:45,352 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 13:04:48,912 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 13:04:48,912 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3552 milliseconds
+2023-05-02 13:04:49,079 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 13:04:49,085 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 13:04:49,472 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 13:04:51,180 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 13:04:52,889 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 13:04:56,001 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 13:04:58,130 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 13:04:59,813 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 13:04:59,982 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 13:05:51,237 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 13:05:54,390 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 13:05:54,391 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3145 milliseconds
+2023-05-02 13:05:54,522 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 13:05:54,528 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 13:05:54,826 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 13:05:56,526 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 13:05:58,210 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 13:06:01,183 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 13:06:03,326 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 13:06:05,004 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 13:06:05,185 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 13:06:06,567 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 13:06:08,648 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 13:06:08,648 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2081 milliseconds
+2023-05-02 13:06:08,897 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 13:06:09,937 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 13:06:13,731 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 13:07:17,900 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 13:07:21,158 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 13:07:21,158 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3251 milliseconds
+2023-05-02 13:07:21,292 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 13:07:21,297 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 13:07:21,569 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 13:07:23,293 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 13:07:24,959 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 13:07:27,841 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 13:07:30,016 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 13:07:31,719 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 13:07:31,903 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 13:07:33,267 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 13:07:36,779 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 13:07:36,779 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3512 milliseconds
+2023-05-02 13:07:37,020 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 13:07:38,069 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-02 13:07:41,859 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 13:09:14,051 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 13:09:18,502 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 13:09:18,502 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4445 milliseconds
+2023-05-02 13:09:18,634 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 13:09:18,649 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 13:09:19,052 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 13:09:20,779 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 13:09:23,592 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 13:09:26,260 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 13:09:28,392 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 13:09:30,074 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 13:09:30,240 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 13:09:31,615 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 13:09:34,095 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 13:09:34,096 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2477 milliseconds
+2023-05-02 13:09:34,297 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 13:09:36,578 - pack1.Keywords -DEBUG - New Tab Opened
+2023-05-02 13:09:38,715 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 18:13:36,446 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 18:13:40,784 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 18:13:40,785 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4330 milliseconds
+2023-05-02 18:13:40,943 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 18:13:40,952 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 18:13:41,219 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 18:13:42,977 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 18:13:44,694 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 18:13:47,869 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 18:13:50,061 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 18:13:51,773 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 18:13:51,986 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 18:13:53,498 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:13:56,362 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 18:13:56,363 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2864 milliseconds
+2023-05-02 18:13:56,688 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 18:13:59,039 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:14:01,284 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 18:14:55,704 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 18:14:58,558 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 18:14:58,558 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2844 milliseconds
+2023-05-02 18:14:58,698 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 18:14:58,707 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 18:14:58,962 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 18:15:00,719 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 18:15:02,415 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 18:15:05,421 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 18:15:07,674 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 18:15:09,392 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 18:15:09,592 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 18:15:11,104 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:15:15,992 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 18:15:15,992 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4883 milliseconds
+2023-05-02 18:15:16,300 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 18:15:18,546 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:15:20,738 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 18:15:55,204 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 18:15:59,564 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 18:15:59,566 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4351 milliseconds
+2023-05-02 18:15:59,717 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 18:15:59,717 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 18:15:59,969 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 18:16:01,739 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 18:16:03,449 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 18:16:06,474 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 18:16:08,717 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 18:16:10,415 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 18:16:10,605 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 18:16:12,055 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:16:14,786 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 18:16:14,786 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2730 milliseconds
+2023-05-02 18:16:15,039 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 18:16:17,342 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:16:19,537 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-02 18:45:51,212 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-02 18:45:55,676 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-02 18:45:55,677 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4456 milliseconds
+2023-05-02 18:45:55,848 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-02 18:45:55,848 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-02 18:45:56,117 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-02 18:45:57,892 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-02 18:45:59,647 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-02 18:46:02,940 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-02 18:46:05,152 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-02 18:46:06,850 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-02 18:46:07,075 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-02 18:46:08,519 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:46:13,880 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-02 18:46:13,880 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5356 milliseconds
+2023-05-02 18:46:14,272 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-02 18:46:16,559 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-02 18:46:18,780 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 08:14:45,900 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 08:14:52,706 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 08:14:52,707 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--6797 milliseconds
+2023-05-03 08:14:52,834 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 08:14:52,834 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 08:14:53,468 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 08:14:55,181 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 08:14:56,857 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 08:14:59,667 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 08:15:01,816 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 08:15:03,470 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 08:15:03,660 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 08:15:04,982 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 08:15:07,279 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 08:15:07,280 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2293 milliseconds
+2023-05-03 08:15:07,560 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 08:15:09,760 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 08:15:11,956 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 11:20:03,797 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:20:07,269 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:20:07,269 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3452 milliseconds
+2023-05-03 11:20:07,410 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:20:07,417 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:20:07,730 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:20:09,430 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:20:11,110 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:20:14,131 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:20:16,284 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:20:18,002 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:20:18,231 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:20:19,652 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:20:24,889 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:20:24,889 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5221 milliseconds
+2023-05-03 11:20:25,171 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:20:27,385 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:20:29,530 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 11:22:38,341 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:22:41,158 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:22:41,160 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2809 milliseconds
+2023-05-03 11:22:41,295 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:22:41,300 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:22:41,580 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:22:43,278 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:22:44,955 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:22:47,794 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:22:50,007 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:22:51,717 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:22:51,894 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:22:53,266 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:22:55,351 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:22:55,351 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2081 milliseconds
+2023-05-03 11:22:55,552 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:22:57,795 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:22:58,982 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:23:00,219 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:23:21,929 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:23:24,693 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:23:24,693 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2757 milliseconds
+2023-05-03 11:23:24,851 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:23:24,857 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:23:25,103 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:23:26,810 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:23:29,598 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:23:32,152 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:23:34,327 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:23:36,022 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:23:36,231 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:23:37,587 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:23:42,405 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:23:42,406 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4802 milliseconds
+2023-05-03 11:23:42,644 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:23:44,873 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:23:46,025 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:23:47,247 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:42:23,491 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:42:26,329 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:42:26,329 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2830 milliseconds
+2023-05-03 11:42:26,500 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:42:26,505 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:42:26,739 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:42:28,475 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:42:31,518 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:42:34,103 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:42:36,257 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:42:37,963 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:42:38,155 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:42:39,553 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:42:42,883 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:42:42,883 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3330 milliseconds
+2023-05-03 11:42:43,173 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:42:46,415 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:42:48,601 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-03 11:42:50,832 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:43:17,353 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:43:21,513 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:43:21,513 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4152 milliseconds
+2023-05-03 11:43:21,655 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:43:21,660 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:43:22,087 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:43:23,808 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:43:26,597 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:43:29,173 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:43:31,358 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:43:33,056 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:43:33,254 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:43:34,615 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:43:38,622 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:43:38,622 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4006 milliseconds
+2023-05-03 11:43:38,876 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:43:42,175 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:43:44,394 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-03 11:43:46,617 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:45:41,950 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:45:47,051 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:45:47,052 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5095 milliseconds
+2023-05-03 11:45:47,186 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:45:47,202 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:45:47,671 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:45:49,416 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:45:51,110 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:45:54,283 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:45:56,514 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:45:58,208 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:45:58,393 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:45:59,770 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:46:03,015 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:46:03,015 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3228 milliseconds
+2023-05-03 11:46:03,235 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:46:07,265 - pack1.Keywords -DEBUG - Windows Application Closed
+2023-05-03 11:46:07,465 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-03 11:46:09,698 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:46:11,878 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-03 11:46:14,165 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:46:16,320 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 11:48:21,505 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:48:24,348 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:48:24,348 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2836 milliseconds
+2023-05-03 11:48:24,475 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:48:24,481 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:48:24,757 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:48:26,456 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:48:29,247 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:48:31,832 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:48:33,967 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:48:35,635 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:48:35,818 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:48:37,178 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:48:46,851 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:48:46,852 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--9666 milliseconds
+2023-05-03 11:48:47,127 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:48:48,170 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-03 11:48:52,871 - pack1.Keywords -DEBUG - Windows Application Closed
+2023-05-03 11:48:53,022 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-03 11:48:55,265 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:48:57,495 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-03 11:48:59,729 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:49:01,878 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 11:53:20,082 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:53:25,409 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:53:25,409 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5321 milliseconds
+2023-05-03 11:53:25,550 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:53:25,550 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:53:25,937 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:53:27,663 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:53:29,340 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:53:32,379 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:53:34,533 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:53:36,259 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:53:36,447 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:53:37,822 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:53:44,806 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:53:44,806 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--6982 milliseconds
+2023-05-03 11:53:45,074 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:53:46,126 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-03 11:53:49,830 - pack1.Keywords -DEBUG - Windows Application Closed
+2023-05-03 11:53:49,968 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-03 11:53:52,246 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:53:54,471 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-03 11:53:56,687 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-03 11:53:58,770 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 11:57:38,259 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 11:57:41,075 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 11:57:41,075 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2809 milliseconds
+2023-05-03 11:57:41,211 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 11:57:41,217 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 11:57:41,484 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 11:57:43,174 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 11:57:44,857 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 11:57:47,630 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 11:57:49,768 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 11:57:51,482 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 11:57:51,662 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 11:57:53,063 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 11:57:58,009 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 11:57:58,010 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4939 milliseconds
+2023-05-03 11:57:58,198 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 11:57:59,242 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-03 11:58:02,928 - pack1.Keywords -DEBUG - Windows Application Closed
+2023-05-03 11:58:03,084 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-03 11:58:05,231 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 12:03:53,454 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 12:03:58,006 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 12:03:58,006 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4544 milliseconds
+2023-05-03 12:03:58,135 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 12:03:58,150 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 12:03:58,403 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 12:04:00,124 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 12:04:03,005 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 12:04:05,659 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 12:04:07,813 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 12:04:09,504 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 12:04:09,734 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 12:04:11,115 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 12:04:13,893 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 12:04:13,894 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--2773 milliseconds
+2023-05-03 12:04:14,097 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 12:04:15,157 - pack1.Keywords -DEBUG - Clicked the element: AddFile
+2023-05-03 12:04:16,967 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-03 12:04:19,103 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-03 16:21:37,808 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-03 16:21:42,356 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-03 16:21:42,356 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--4540 milliseconds
+2023-05-03 16:21:42,528 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-03 16:21:42,543 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-03 16:21:42,950 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-03 16:21:44,663 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-03 16:21:46,372 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-03 16:21:49,321 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-03 16:21:51,452 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-03 16:21:53,137 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-03 16:21:53,312 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-03 16:21:54,682 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-03 16:21:59,865 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-03 16:21:59,866 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5167 milliseconds
+2023-05-03 16:22:00,148 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-03 16:22:03,382 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-04 13:13:50,943 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-04 13:13:54,912 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-04 13:13:54,913 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3961 milliseconds
+2023-05-04 13:13:55,095 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-04 13:13:55,104 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-04 13:13:55,370 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-04 13:13:57,186 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-04 13:14:00,134 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-04 13:14:02,727 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-04 13:14:04,958 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-04 13:14:06,700 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-04 13:14:06,969 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-04 13:14:08,503 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-04 13:14:11,769 - pack1.Keywords -DEBUG - Navigate URL: https://www.filemail.com/share/upload-file
+2023-05-04 13:14:11,769 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--3260 milliseconds
+2023-05-04 13:14:12,220 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-04 13:14:15,604 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-04 18:51:43,014 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-04 18:51:48,943 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-04 18:51:48,943 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--5915 milliseconds
+2023-05-04 18:51:49,113 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-04 18:51:49,120 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-04 18:51:49,652 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-04 18:51:51,410 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-04 18:51:53,161 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-04 18:51:56,625 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-04 18:51:58,962 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-04 18:52:00,640 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-04 18:52:00,839 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-04 18:52:02,275 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-04 18:52:02,357 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-04 18:52:04,364 - pack1.Keywords -DEBUG - Navigate URL: https://ps.uci.edu/~franklin/doc/file_upload.html
+2023-05-04 18:52:04,364 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--979 milliseconds
+2023-05-04 18:52:06,713 - pack1.Keywords -DEBUG - Quit all the browser
+2023-05-04 18:52:59,640 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-04 18:53:10,997 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-04 18:53:11,001 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--11351 milliseconds
+2023-05-04 18:53:11,198 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-04 18:53:11,211 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-04 18:53:11,951 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-04 18:53:13,713 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-04 18:53:15,468 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-04 18:53:18,942 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-04 18:53:21,289 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-04 18:53:23,012 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-04 18:53:23,203 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-04 18:53:24,683 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-04 18:53:24,773 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-04 18:53:26,736 - pack1.Keywords -DEBUG - Navigate URL: https://ps.uci.edu/~franklin/doc/file_upload.html
+2023-05-04 18:53:26,736 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--951 milliseconds
+2023-05-04 18:54:51,110 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-04 18:55:01,559 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-04 18:55:01,559 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--10442 milliseconds
+2023-05-04 18:55:01,747 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-04 18:55:01,750 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-04 18:55:02,748 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-04 18:55:04,547 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-04 18:55:06,296 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-04 18:55:14,214 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-04 18:55:16,611 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-04 18:55:18,312 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-04 18:55:18,518 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-04 18:55:20,000 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-04 18:55:20,087 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-04 18:55:22,054 - pack1.Keywords -DEBUG - Navigate URL: https://ps.uci.edu/~franklin/doc/file_upload.html
+2023-05-04 18:55:22,055 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--951 milliseconds
+2023-05-04 19:26:37,146 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-04 19:26:49,326 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/
+2023-05-04 19:26:49,326 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--12173 milliseconds
+2023-05-04 19:26:49,480 - pack1.Keywords -DEBUG - Get Title of the page:OrangeHRM
+2023-05-04 19:26:49,480 - pack1.Keywords -DEBUG - Get Current URL of the page:https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-04 19:26:50,047 - pack1.Keywords -DEBUG - Input value given for: Username
+2023-05-04 19:26:51,866 - pack1.Keywords -DEBUG - Input value given for: Password
+2023-05-04 19:26:55,193 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-04 19:26:58,123 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-04 19:27:00,388 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-04 19:27:02,086 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-04 19:27:02,280 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-04 19:27:03,731 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-04 19:27:03,861 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-04 19:27:06,025 - pack1.Keywords -DEBUG - Navigate URL: https://ps.uci.edu/~franklin/doc/file_upload.html
+2023-05-04 19:27:06,027 - pack1.Keywords -DEBUG - TimeTaken for URL Launched--1142 milliseconds
