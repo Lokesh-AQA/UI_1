@@ -71,7 +71,6 @@ public class ExecuteLead extends Environment {
 					key.getCurrentURL();
 				}
 			}
-
 			if (a.get(i).equals("Input")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
@@ -84,16 +83,16 @@ public class ExecuteLead extends Environment {
 					key.click(Objectname);
 				}
 			}
-			if (a.get(i).equals("Close")) {
+			if (a.get(i).equals("ActionsClick")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.close();
+					key.actionsClick(Objectname);
 				}
 			}
-			if (a.get(i).equals("Quit")) {
+			if (a.get(i).equals("ActionsInputPass")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.quit();
+					key.actionsInputPass(data,Objectname);
 				}
 			}
 			if (a.get(i).equals("Dropdown")) {
@@ -114,16 +113,16 @@ public class ExecuteLead extends Environment {
 					key.scrollUpHome(data, Objectname);
 				}
 			}
-			if (a.get(i).equals("JumbTab")) {
-				MainClass.dataIndexValue(i);
-				if (runmode.equals("Yes")) {
-					key.Jumbtab(data);
-				}
-			}
 			if (a.get(i).equals("NewTab")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.Newtab();
+				}
+			}
+			if (a.get(i).equals("JumbTab")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.Jumbtab(data);
 				}
 			}
 			if (a.get(i).equals("CopyContent")) {
@@ -138,10 +137,16 @@ public class ExecuteLead extends Environment {
 					key.fileUpload();
 				}
 			}
-			if (a.get(i).equals("MouseClick")) {
+			if (a.get(i).equals("Close")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.mouseClick(Objectname);
+					key.close();
+				}
+			}
+			if (a.get(i).equals("Quit")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.quit();
 				}
 			}
 		}
