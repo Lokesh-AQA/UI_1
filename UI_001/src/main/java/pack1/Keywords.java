@@ -4,7 +4,7 @@ import java.awt.AWTException;
 import java.io.IOException;
 import java.time.Duration;
 
-import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.By;
 import org.testng.Assert;
 
 public class Keywords extends Environment {
@@ -24,10 +24,10 @@ public class Keywords extends Environment {
 
 	public void navigateURL(String data) throws IOException {
 		try {
-			d.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-			// d.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(5));
 			// d.manage().timeouts().scriptTimeout(Duration.ofSeconds(20));
+			d.manage().timeouts().implicitlyWait(Duration.ofSeconds(50));
 			MainClass.navigateURL(data);
+			d.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
 			MainClass.captureScreen();
 		} catch (Exception e) {
 			log.error("Fail,unable to navigate URL: " + data);
@@ -39,7 +39,7 @@ public class Keywords extends Environment {
 	public void getTitle() {
 		try {
 			Thread.sleep(100);
-			MainClass.getTitle();
+			MainClass.getTitle(data);
 		} catch (Exception e) {
 			log.error("Fail,unable to GetTitle from page");
 			e.printStackTrace();
@@ -50,7 +50,7 @@ public class Keywords extends Environment {
 	public void getCurrentURL() {
 		try {
 			Thread.sleep(100);
-			MainClass.getCurrentURL();
+			MainClass.getCurrentURL(data);
 		} catch (Exception e) {
 			log.error("Fail,unable to GetCurrentURL from page");
 			e.printStackTrace();
@@ -101,11 +101,11 @@ public class Keywords extends Environment {
 	public void actionsClick(String objectname) {
 		try {
 			MainClass.loadPropertyFile();
-			Thread.sleep(500);
+			Thread.sleep(1000);
 			MainClass.actionsClick(objectname);
-			Thread.sleep(500);
+			MainClass.captureScreen();
 		} catch (Exception e) {
-			log.error("Fail,unable to perform Mouse Click: " + data);
+			log.error("Fail,unable to perform Mouse Click: " + objectname);
 			e.printStackTrace();
 			Assert.fail();
 		}
@@ -113,9 +113,19 @@ public class Keywords extends Environment {
 
 	public void actionsInputPass(String data, String objectname)
 			throws IOException, InterruptedException, AWTException {
-		Thread.sleep(500);
 		MainClass.loadPropertyFile();
+		Thread.sleep(500);
 		MainClass.actionsInputPass(data, objectname);
+		Thread.sleep(1000);
+		MainClass.captureScreen();
+	}
+
+	public void actionsdragAnddrop(String data, String objectname) throws IOException, InterruptedException {
+		MainClass.loadPropertyFile();
+		Thread.sleep(1000);
+		MainClass.actionsDragAndDrop(data, objectname);
+		Thread.sleep(1000);
+		MainClass.captureScreen();
 	}
 
 	public void Newtab() throws InterruptedException, IOException {
@@ -132,7 +142,7 @@ public class Keywords extends Environment {
 
 	public void Jumbtab(String data) throws IOException, InterruptedException {
 		try {
-			Thread.sleep(2000);
+			Thread.sleep(1000);
 			MainClass.jumpTab(data);
 			MainClass.captureScreen();
 		} catch (Exception e) {
@@ -142,11 +152,9 @@ public class Keywords extends Environment {
 		}
 	}
 
-	public void scrollDownEnd(String data, String objectname) throws IOException {
+	public void scrollDownEnd() throws IOException {
 		try {
-			JavascriptExecutor js = (JavascriptExecutor) d;
-			js.executeScript("window.scrollBy(0,10000)");
-			log.debug("ScrollDown till End");
+			MainClass.scrollDownEnd();
 			Thread.sleep(1000);
 			MainClass.captureScreen();
 		} catch (Exception e) {
@@ -156,11 +164,22 @@ public class Keywords extends Environment {
 		}
 	}
 
-	public void scrollUpHome(String data, String objectname) throws IOException {
+	public void scrollUpHome() throws IOException {
 		try {
-			JavascriptExecutor js = (JavascriptExecutor) d;
-			js.executeScript("window.scrollBy(0,-10000)");
-			log.debug("ScrollUp till Home");
+			MainClass.scrollUpHome();
+			Thread.sleep(1000);
+			MainClass.captureScreen();
+		} catch (Exception e) {
+			log.error("Fail,unable to Scrollup till HOME");
+			e.printStackTrace();
+			Assert.fail();
+		}
+	}
+
+	public void scrollUpElement(String objectname) {
+		try {
+			MainClass.loadPropertyFile();
+			MainClass.scrollElement(objectname);
 			Thread.sleep(1000);
 			MainClass.captureScreen();
 		} catch (Exception e) {
@@ -176,19 +195,6 @@ public class Keywords extends Environment {
 			MainClass.copydata(data);
 		} catch (Exception e) {
 			log.error("Fail,unable to Copy data: " + data);
-			e.printStackTrace();
-			Assert.fail();
-		}
-	}
-
-	public void fileUpload() throws IOException, AWTException, InterruptedException {
-		try {
-			Thread.sleep(1000);
-			MainClass.robotClass();
-			Thread.sleep(2000);
-			MainClass.captureScreen();
-		} catch (Exception e) {
-			log.error("Fail,unable to perform RobotClass: Fileupload");
 			e.printStackTrace();
 			Assert.fail();
 		}
@@ -216,5 +222,29 @@ public class Keywords extends Environment {
 			e.printStackTrace();
 			Assert.fail();
 		}
+	}
+
+	public void uploadfile() throws AWTException, InterruptedException, IOException {
+		try {
+			Thread.sleep(1000);
+			MainClass.uploadFile();
+			MainClass.captureScreen();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (AWTException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+}
+
+	public void SubmitButton(String Objectname) throws InterruptedException {
+		Thread.sleep(1000);
+		d.findElement(By.xpath(pro.getProperty(Objectname))).submit();
+		log.debug("Submited the element "+ Objectname);
+
 	}
 }

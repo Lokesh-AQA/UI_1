@@ -23,7 +23,7 @@ public class ExecuteLead extends Environment {
 		Keywords key = new Keywords();
 		FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\XL\\Page_1.xlsx");
 		XSSFWorkbook book = new XSSFWorkbook(file);
-		Sheet sh = book.getSheet("OrangeHRM");
+		Sheet sh = book.getSheet("Orange");
 		Iterator itr = sh.iterator();
 		while (itr.hasNext()) {
 			Row rowitr = (Row) itr.next();
@@ -92,7 +92,13 @@ public class ExecuteLead extends Environment {
 			if (a.get(i).equals("ActionsInputPass")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.actionsInputPass(data,Objectname);
+					key.actionsInputPass(data, Objectname);
+				}
+			}
+			if (a.get(i).equals("DragAndDrop")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.actionsdragAnddrop(data, Objectname);
 				}
 			}
 			if (a.get(i).equals("Dropdown")) {
@@ -104,13 +110,19 @@ public class ExecuteLead extends Environment {
 			if (a.get(i).equals("ScrollDownEND")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.scrollDownEnd(data, Objectname);
+					key.scrollDownEnd();
 				}
 			}
 			if (a.get(i).equals("ScrollUpHOME")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.scrollUpHome(data, Objectname);
+					key.scrollUpHome();
+				}
+			}
+			if (a.get(i).equals("ScrollDownElement")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.scrollUpElement(Objectname);
 				}
 			}
 			if (a.get(i).equals("NewTab")) {
@@ -131,12 +143,6 @@ public class ExecuteLead extends Environment {
 					key.copyContent(data);
 				}
 			}
-			if (a.get(i).equals("FileUpload")) {
-				MainClass.dataIndexValue(i);
-				if (runmode.equals("Yes")) {
-					key.fileUpload();
-				}
-			}
 			if (a.get(i).equals("Close")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
@@ -147,6 +153,18 @@ public class ExecuteLead extends Environment {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
 					key.quit();
+				}
+			}
+			if (a.get(i).equals("UploadFile")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.uploadfile();
+				}
+			}
+			if (a.get(i).equals("SubmitButton")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.SubmitButton(Objectname);
 				}
 			}
 		}

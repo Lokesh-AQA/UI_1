@@ -1,0 +1,34 @@
+2023-05-09 17:06:19,361 - pack1.Keywords -DEBUG - Browser Opened
+2023-05-09 17:06:24,110 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-09 17:06:24,110 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 4743 milliseconds
+2023-05-09 17:06:24,381 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-09 17:06:24,550 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-09 17:06:25,628 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-09 17:06:26,862 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-09 17:06:28,054 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-09 17:06:31,161 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-09 17:06:33,102 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-09 17:06:34,260 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-09 17:06:35,429 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-09 17:06:38,757 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-09 17:06:43,405 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-09 17:06:44,563 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-09 17:06:45,735 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-09 17:06:47,471 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-09 17:06:50,612 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-09 17:06:50,612 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 2992 milliseconds
+2023-05-09 17:06:51,888 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Lokesh\Desktop\STUB Data.txt
+2023-05-09 17:06:54,089 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-09 17:06:58,292 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-09 17:06:59,795 - pack1.Keywords -DEBUG - Submited the element Submit
+2023-05-09 17:07:00,827 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-09 17:07:02,033 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-09 17:07:03,208 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-09 17:07:04,589 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-09 17:07:05,998 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  Logout
+2023-05-09 17:07:07,351 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-09 17:07:10,627 - pack1.Keywords -DEBUG - Navigate URL: https://demo.guru99.com/test/drag_drop.html
+2023-05-09 17:07:10,628 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 3146 milliseconds
+2023-05-09 17:07:10,887 - pack1.Keywords -DEBUG - Page Srolled till element
+2023-05-09 17:07:13,346 - pack1.Keywords -DEBUG - Element drag and dropped !
+2023-05-09 17:07:16,640 - pack1.Keywords -DEBUG - Quit all the browser

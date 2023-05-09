@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Septemper21" default="CleanMaster1">
+<target name="CleanMaster1" >
+		<delete dir="D:\191\Septemper21\Ant\build\Screenshots"/>
+		<delete dir="D:\191\Septemper21\Ant\build\ScreenRecords"/>
+		<delete dir="D:\191\Septemper21\Ant\build\Logs"/>
+		<delete dir="\191\Septemper21\FinalReports"/>
+		<delete dir="D:\191\Septemper21\Logs"/>
+	    <delete dir="D:\191\Septemper21\Screenshots"/>
+	    <delete dir="D:\191\Septemper21\ScreenRecords"/>
+	    <mkdir dir="D:\191\Septemper21\ScreenRecords"/>
+		<mkdir dir="D:\191\Septemper21\Ant\build\ScreenRecords"/>
+	</target>
+	</project>
