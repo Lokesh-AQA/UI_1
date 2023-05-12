@@ -4,17 +4,29 @@ import java.awt.AWTException;
 import java.io.IOException;
 import java.time.Duration;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Keywords extends Environment {
 
 	public void invokebrowser(String data) {
 		try {
+			//WebDriverManager.chromedriver().setup();
+			//ChromeOptions options = new ChromeOptions();
+			//options.addArguments("--incognito");
+			//d = new ChromeDriver(options);
+			
 			MainClass.browserOptions(data);
+			d.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 			d.manage().window().maximize();
-			d.manage().deleteAllCookies();
-			log.debug("Browser Opened");
+			//d.manage().window().maximize();
+			//d.manage().deleteAllCookies();
+			//log.debug("Browser Opened");
 		} catch (Exception e) {
 			log.error("Fail,unable to launch browser: " + data);
 			e.printStackTrace();
@@ -77,7 +89,10 @@ public class Keywords extends Environment {
 			Thread.sleep(1000);
 			MainClass.clickElement(objectname);
 			Thread.sleep(1000);
-			MainClass.captureScreen();
+			//MainClass.captureScreen();
+			
+			
+		
 		} catch (Exception e) {
 			log.error("Fail,unable to click the element: " + objectname);
 			e.printStackTrace();
@@ -89,7 +104,7 @@ public class Keywords extends Environment {
 		try {
 			MainClass.loadPropertyFile();
 			Thread.sleep(1000);
-			MainClass.selectDropdown(data, objectname);
+			MainClass.Dropdown(data, objectname);
 			MainClass.captureScreen();
 		} catch (Exception e) {
 			log.error("Fail,unable to perform Dropdown field: " + objectname);
@@ -230,21 +245,28 @@ public class Keywords extends Environment {
 			MainClass.uploadFile();
 			MainClass.captureScreen();
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (AWTException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-}
+	}
 
-	public void SubmitButton(String Objectname) throws InterruptedException {
+	public void SubmitButton(String Objectname) throws InterruptedException, IOException {
 		Thread.sleep(1000);
-		d.findElement(By.xpath(pro.getProperty(Objectname))).submit();
-		log.debug("Submited the element "+ Objectname);
+		MainClass.submit();
+		MainClass.captureScreen();
+	}
 
+	public void alertaccept() {
+		//String str = d.switchTo().alert().getText();	
+		//d.switchTo().alert().accept();
+		//d.switchTo().alert().dismiss();
+        //log.debug("Alert Accepted");
+		Alert alt = d.switchTo().alert();
+
+		alt.accept();
+		
 	}
 }

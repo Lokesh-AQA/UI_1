@@ -167,6 +167,12 @@ public class ExecuteLead extends Environment {
 					key.SubmitButton(Objectname);
 				}
 			}
+			if (a.get(i).equals("AlertAccept")) {
+				MainClass.dataIndexValue(i);
+				if (runmode.equals("Yes")) {
+					key.alertaccept();
+				}
+			}
 		}
 	}
 }
