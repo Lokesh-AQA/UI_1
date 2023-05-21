@@ -5,12 +5,7 @@ import java.io.IOException;
 import java.time.Duration;
 
 import org.openqa.selenium.Alert;
-import org.openqa.selenium.By;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
-
-import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Keywords extends Environment {
 
@@ -36,10 +31,10 @@ public class Keywords extends Environment {
 
 	public void navigateURL(String data) throws IOException {
 		try {
-			// d.manage().timeouts().scriptTimeout(Duration.ofSeconds(20));
-			d.manage().timeouts().implicitlyWait(Duration.ofSeconds(50));
 			MainClass.navigateURL(data);
-			d.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
+			d.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+			//d.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(50));
+			// d.manage().timeouts().scriptTimeout(Duration.ofSeconds(20));
 			MainClass.captureScreen();
 		} catch (Exception e) {
 			log.error("Fail,unable to navigate URL: " + data);

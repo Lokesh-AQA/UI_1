@@ -14,7 +14,6 @@ import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Iterator;
 import java.util.Properties;
 import java.util.Set;
 
@@ -51,7 +50,7 @@ public class MainClass extends Environment {
 
 	public static void loadPropertyFile() throws IOException {
 		FileInputStream file = new FileInputStream(
-				System.getProperty("user.dir") + "\\Properties\\OrangeHRM.properties");
+				System.getProperty("user.dir") + "\\Config\\OrangeHRM.properties");
 		pro = new Properties();
 		pro.load(file);
 	}
@@ -219,7 +218,7 @@ public class MainClass extends Environment {
 	public static void copydata(String data) throws InterruptedException {
 		Toolkit toolkit = Toolkit.getDefaultToolkit();
 		Clipboard clipboard = toolkit.getSystemClipboard();
-		StringSelection strStore = new StringSelection("C:\\Users\\Send2\\Desktop\\STUB Data.rtf");
+		StringSelection strStore = new StringSelection(data);
 		clipboard.setContents(strStore, null);
 		log.debug("Copied the Data in Clipboard i.e." + data);
 		Thread.sleep(1000);

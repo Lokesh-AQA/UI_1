@@ -1,0 +1,197 @@
+2023-05-21 20:57:32,727 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 20:57:32,735 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 12233 milliseconds
+2023-05-21 20:57:33,094 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 20:57:33,372 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 20:57:33,373 - pack1.Keywords -ERROR - Fail,unable to pass input value: Username
+2023-05-21 20:58:36,125 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 20:58:36,133 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 14995 milliseconds
+2023-05-21 20:58:36,508 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 20:58:36,633 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 20:58:37,759 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 20:58:39,118 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-21 20:58:41,513 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-21 20:58:44,446 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-21 20:58:46,275 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-21 20:58:47,435 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-21 20:58:48,607 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-21 20:58:52,100 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-21 20:58:56,880 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-21 20:58:57,894 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-21 20:58:59,139 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-21 20:59:01,471 - pack1.Keywords -DEBUG - DropDown button clicked i.e. UserRoleSelection
+2023-05-21 20:59:01,499 - pack1.Keywords -DEBUG - Select the DropDown Value from List Admin
+2023-05-21 20:59:02,367 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-21 20:59:14,769 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-21 20:59:14,770 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 12249 milliseconds
+2023-05-21 20:59:16,071 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.D:\Sketch_1\Git\UI_1\backup\UI_001\XL\Page_1.xlsx
+2023-05-21 20:59:18,287 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-21 20:59:22,510 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-21 20:59:24,240 - pack1.Keywords -DEBUG - Submited the element SubmitUploadedFile
+2023-05-21 20:59:25,542 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 20:59:26,858 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 20:59:28,168 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 20:59:29,673 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-21 20:59:31,039 - pack1.Keywords -ERROR - Fail,unable to perform Mouse Click: Logout
+2023-05-21 21:02:03,258 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:02:03,266 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 14813 milliseconds
+2023-05-21 21:02:03,633 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 21:02:03,773 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:02:04,876 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 21:02:06,307 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-21 21:02:07,655 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-21 21:02:10,840 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-21 21:02:12,615 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:02:13,768 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-21 21:02:14,950 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-21 21:02:18,380 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:02:23,127 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-21 21:02:24,156 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-21 21:02:25,376 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-21 21:02:27,647 - pack1.Keywords -DEBUG - DropDown button clicked i.e. UserRoleSelection
+2023-05-21 21:02:27,664 - pack1.Keywords -DEBUG - Select the DropDown Value from List Admin
+2023-05-21 21:02:28,471 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-21 21:02:38,558 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-21 21:02:38,559 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 9876 milliseconds
+2023-05-21 21:02:40,110 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Send2\OneDrive\Desktop\STUB Data.rtf
+2023-05-21 21:02:42,322 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-21 21:02:46,774 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-21 21:02:48,524 - pack1.Keywords -DEBUG - Submited the element SubmitUploadedFile
+2023-05-21 21:02:49,795 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:02:51,138 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:02:52,419 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:02:53,879 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-21 21:02:55,182 - pack1.Keywords -ERROR - Fail,unable to perform Mouse Click: Logout
+2023-05-21 21:04:38,715 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:04:38,728 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 13867 milliseconds
+2023-05-21 21:04:39,054 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 21:04:39,195 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:04:40,334 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 21:04:41,693 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-21 21:04:43,009 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-21 21:04:46,096 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-21 21:04:47,887 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:04:49,042 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-21 21:04:50,227 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-21 21:04:53,620 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:04:58,424 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-21 21:04:59,446 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-21 21:05:00,729 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-21 21:05:03,047 - pack1.Keywords -DEBUG - DropDown button clicked i.e. UserRoleSelection
+2023-05-21 21:05:03,069 - pack1.Keywords -DEBUG - Select the DropDown Value from List Admin
+2023-05-21 21:05:03,928 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-21 21:05:16,771 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-21 21:05:16,772 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 12630 milliseconds
+2023-05-21 21:05:18,342 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Send2\OneDrive\Desktop\STUB Data.txt
+2023-05-21 21:05:20,555 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-21 21:05:24,975 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-21 21:05:26,715 - pack1.Keywords -DEBUG - Submited the element SubmitUploadedFile
+2023-05-21 21:05:28,053 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:05:29,401 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:05:30,693 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:05:32,109 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-21 21:05:33,630 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  Logout
+2023-05-21 21:05:35,100 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:05:35,621 - pack1.Keywords -DEBUG - Navigate URL: https://demo.guru99.com/test/drag_drop.html
+2023-05-21 21:05:35,621 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 297 milliseconds
+2023-05-21 21:05:35,675 - pack1.Keywords -ERROR - Fail,unable to Scrollup till HOME
+2023-05-21 21:06:59,695 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:06:59,701 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 14429 milliseconds
+2023-05-21 21:07:00,226 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 21:07:00,356 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:07:01,491 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 21:07:03,373 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-21 21:07:04,808 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-21 21:07:08,197 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-21 21:07:09,997 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:07:11,154 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-21 21:07:12,309 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-21 21:07:15,607 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:07:20,370 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-21 21:07:21,389 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-21 21:07:22,622 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-21 21:07:24,921 - pack1.Keywords -DEBUG - DropDown button clicked i.e. UserRoleSelection
+2023-05-21 21:07:24,942 - pack1.Keywords -DEBUG - Select the DropDown Value from List Admin
+2023-05-21 21:07:25,768 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-21 21:07:29,278 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-21 21:07:29,278 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 3296 milliseconds
+2023-05-21 21:07:30,799 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Send2\OneDrive\Desktop\STUB Data.txt
+2023-05-21 21:07:33,023 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-21 21:07:37,415 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-21 21:07:39,132 - pack1.Keywords -DEBUG - Submited the element SubmitUploadedFile
+2023-05-21 21:07:40,486 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:07:41,848 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:07:43,111 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:07:44,519 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-21 21:07:45,867 - pack1.Keywords -ERROR - Fail,unable to perform Mouse Click: Logout
+2023-05-21 21:21:12,059 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:21:12,066 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 8692 milliseconds
+2023-05-21 21:21:12,385 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 21:21:12,634 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:21:13,762 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 21:21:15,083 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-21 21:21:16,323 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-21 21:21:19,504 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-21 21:21:21,310 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:21:22,490 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-21 21:21:23,674 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-21 21:21:27,095 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:21:31,828 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-21 21:21:32,855 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-21 21:21:34,084 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-21 21:21:36,337 - pack1.Keywords -DEBUG - DropDown button clicked i.e. UserRoleSelection
+2023-05-21 21:21:36,359 - pack1.Keywords -DEBUG - Select the DropDown Value from List Admin
+2023-05-21 21:21:37,096 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-21 21:21:40,209 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-21 21:21:40,209 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 2936 milliseconds
+2023-05-21 21:21:41,436 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Send2\OneDrive\Desktop\STUB Data.txt
+2023-05-21 21:21:43,641 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-21 21:21:47,813 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-21 21:21:49,498 - pack1.Keywords -DEBUG - Submited the element SubmitUploadedFile
+2023-05-21 21:21:50,712 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:21:51,982 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:21:53,198 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:21:54,574 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-21 21:21:56,079 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  Logout
+2023-05-21 21:21:57,364 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:22:00,627 - pack1.Keywords -ERROR - Fail,unable to navigate URL: https://demo.guru99.com/test/drag_drop.html
+2023-05-21 21:23:08,103 - pack1.Keywords -DEBUG - Navigate URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:23:08,107 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 3778 milliseconds
+2023-05-21 21:23:08,386 - pack1.Keywords -DEBUG - Actual Title of the page: OrangeHRM
+2023-05-21 21:23:08,525 - pack1.Keywords -DEBUG - Actual Current URL of the page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2023-05-21 21:23:09,641 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 21:23:10,981 - pack1.Keywords -DEBUG - Input value given for: admin123
+2023-05-21 21:23:12,257 - pack1.Keywords -DEBUG - Clicked the element: LoginButton
+2023-05-21 21:23:15,585 - pack1.Keywords -DEBUG - Clicked the element: Admin
+2023-05-21 21:23:17,410 - pack1.Keywords -DEBUG - Input value passed using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:23:18,591 - pack1.Keywords -DEBUG - Double Click performed using Actions Techniques
+2023-05-21 21:23:19,815 - pack1.Keywords -DEBUG - Context Click or Right Click performed using Actions Techniques
+2023-05-21 21:23:23,190 - pack1.Keywords -DEBUG - Input value passed along with Keystroke using Actions Techniques i.e. lokeshwaran
+2023-05-21 21:23:28,112 - pack1.Keywords -DEBUG - Clicked the element: AddButton
+2023-05-21 21:23:29,135 - pack1.Keywords -DEBUG - ScrollDown till End
+2023-05-21 21:23:30,403 - pack1.Keywords -DEBUG - ScrollUp till Home
+2023-05-21 21:23:32,709 - pack1.Keywords -DEBUG - DropDown button clicked i.e. UserRoleSelection
+2023-05-21 21:23:32,730 - pack1.Keywords -DEBUG - Select the DropDown Value from List Admin
+2023-05-21 21:23:33,610 - pack1.Keywords -DEBUG - Shifted to Next Tab
+2023-05-21 21:23:36,738 - pack1.Keywords -DEBUG - Navigate URL: https://the-internet.herokuapp.com/upload
+2023-05-21 21:23:36,738 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 2901 milliseconds
+2023-05-21 21:23:38,030 - pack1.Keywords -DEBUG - Copied the Data in Clipboard i.e.C:\Users\Send2\OneDrive\Desktop\STUB Data.txt
+2023-05-21 21:23:40,235 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  ChooseFile
+2023-05-21 21:23:44,461 - pack1.Keywords -DEBUG - File Uploaded
+2023-05-21 21:23:46,067 - pack1.Keywords -DEBUG - Submited the element SubmitUploadedFile
+2023-05-21 21:23:47,325 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:23:48,586 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:23:49,796 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:23:51,164 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  TryLogout
+2023-05-21 21:23:52,670 - pack1.Keywords -DEBUG - Clicked the element using Actions Techniques i.e.  Logout
+2023-05-21 21:23:54,017 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:23:56,784 - pack1.Keywords -DEBUG - Navigate URL: https://demo.guru99.com/test/drag_drop.html
+2023-05-21 21:23:56,790 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 2646 milliseconds
+2023-05-21 21:23:57,041 - pack1.Keywords -DEBUG - Page Srolled till element
+2023-05-21 21:23:59,620 - pack1.Keywords -DEBUG - Element drag and dropped !
+2023-05-21 21:24:01,842 - pack1.Keywords -DEBUG - Changed to [0] Tab
+2023-05-21 21:24:03,095 - pack1.Keywords -DEBUG - Changed to [1] Tab
+2023-05-21 21:24:03,930 - pack1.Keywords -DEBUG - Navigate URL: https://demo.guru99.com/test/delete_customer.php
+2023-05-21 21:24:03,930 - pack1.Keywords -DEBUG - TimeTaken for URL Launched: 614 milliseconds
+2023-05-21 21:24:05,466 - pack1.Keywords -DEBUG - Input value given for: Admin
+2023-05-21 21:24:06,811 - pack1.Keywords -DEBUG - Clicked the element: SubmitCustomerForm
+2023-05-21 21:24:10,042 - pack1.Keywords -DEBUG - Quit all the browser

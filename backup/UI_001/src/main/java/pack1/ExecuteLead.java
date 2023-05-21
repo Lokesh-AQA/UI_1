@@ -18,7 +18,7 @@ public class ExecuteLead extends Environment {
 	@SuppressWarnings({ "rawtypes", "incomplete-switch", "unchecked", "resource" })
 	@Test
 	public static void main() throws IOException, InterruptedException, AWTException {
-		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\Properties\\log4j.properties");
+		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\config\\log4j.properties");
 		a = new ArrayList();
 		Keywords key = new Keywords();
 		FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\XL\\Page_1.xlsx");

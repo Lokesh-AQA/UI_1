@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-21T21:23:01 IST" name="Default suite" finished-at="2023-05-21T21:24:10 IST" duration-ms="68386">
+    <groups>
+    </groups>
+    <test started-at="2023-05-21T21:23:01 IST" name="Default test" finished-at="2023-05-21T21:24:10 IST" duration-ms="68386">
+      <class name="pack1.ExecuteLead">
+        <test-method signature="main()[pri:0, instance:pack1.ExecuteLead@67f639d3]" started-at="2023-05-21T21:23:01 IST" name="main" finished-at="2023-05-21T21:24:10 IST" duration-ms="68340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- pack1.ExecuteLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
