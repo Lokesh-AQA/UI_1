@@ -13,8 +13,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
 
+import baseClass.Environment;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import pack1.Environment;
 
 public class Fileupload extends Environment {
 

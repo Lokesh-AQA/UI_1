@@ -6,8 +6,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import baseClass.Environment;
 import io.github.bonigarcia.wdm.WebDriverManager;
-import pack1.Environment;
 
 public class Alert extends Environment {
 

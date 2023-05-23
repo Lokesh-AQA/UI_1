@@ -1,4 +1,4 @@
-package pack1;
+package baseClass;
 
 import java.awt.Robot;
 import java.awt.Toolkit;

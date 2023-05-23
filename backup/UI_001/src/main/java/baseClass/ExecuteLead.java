@@ -1,4 +1,4 @@
-package pack1;
+package baseClass;
 
 import java.awt.AWTException;
 import java.io.FileInputStream;
@@ -167,10 +167,10 @@ public class ExecuteLead extends Environment {
 					key.SubmitButton(Objectname);
 				}
 			}
-			if (a.get(i).equals("AlertAccept")) {
+			if (a.get(i).equals("AlertFunction")) {
 				MainClass.dataIndexValue(i);
 				if (runmode.equals("Yes")) {
-					key.alertaccept();
+					key.alertFunction(data);
 				}
 			}
 		}

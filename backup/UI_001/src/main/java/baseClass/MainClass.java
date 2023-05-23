@@ -1,4 +1,4 @@
-package pack1;
+package baseClass;
 
 import static org.testng.Assert.assertEquals;
 
@@ -12,16 +12,19 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.time.Duration;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Properties;
 import java.util.Set;
 
 import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.OutputType;
+import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
@@ -32,6 +35,8 @@ import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -60,6 +65,9 @@ public class MainClass extends Environment {
 		if (data.equals("Chrome")) {
 			WebDriverManager.chromedriver().setup();
 			ChromeOptions options = new ChromeOptions();
+			//options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
+			options.setPageLoadStrategy(PageLoadStrategy.EAGER);
+			//options.setPageLoadStrategy(PageLoadStrategy.NONE);
 			options.addArguments("--incognito");
 			d = new ChromeDriver(options);
 			// Browser along with WebDriver
@@ -265,5 +273,24 @@ public class MainClass extends Environment {
 		d.findElement(By.xpath(pro.getProperty(Objectname))).submit();
 		log.debug("Submited the element " + Objectname);
 
+	}
+
+	public static void alertfunction(String data) {
+		if (data.equals("Accept")) {
+			WebDriverWait wait=new WebDriverWait(d, Duration.ofSeconds(10));
+			Alert alt= wait.until(ExpectedConditions.alertIsPresent());
+			alt = d.switchTo().alert();
+			log.debug("Switched - Alert Message are: "+alt.getText());
+			alt.accept();
+	        log.debug("Alert Accepted");
+	        d.switchTo().alert().accept();
+	        log.debug("Acknowledged the Alert");
+		}
+		if (data.equals("Dismiss")) {
+			Alert alt = d.switchTo().alert();
+			log.debug("Switched - Alert Message are: "+alt.getText());
+			alt.dismiss();
+			log.debug("Alert Dismissed");
+		}
 	}
 }

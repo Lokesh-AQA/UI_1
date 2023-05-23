@@ -1,10 +1,9 @@
-package pack1;
+package baseClass;
 
 import java.awt.AWTException;
 import java.io.IOException;
 import java.time.Duration;
 
-import org.openqa.selenium.Alert;
 import org.testng.Assert;
 
 public class Keywords extends Environment {
@@ -254,14 +253,8 @@ public class Keywords extends Environment {
 		MainClass.captureScreen();
 	}
 
-	public void alertaccept() {
-		//String str = d.switchTo().alert().getText();	
-		//d.switchTo().alert().accept();
-		//d.switchTo().alert().dismiss();
-        //log.debug("Alert Accepted");
-		Alert alt = d.switchTo().alert();
-
-		alt.accept();
-		
+	public void alertFunction(String data) throws InterruptedException, IOException {
+		Thread.sleep(2000);
+		MainClass.alertfunction(data);
 	}
 }
