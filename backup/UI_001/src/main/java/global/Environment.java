@@ -1,4 +1,4 @@
-package baseClass;
+package global;
 
 import java.awt.Robot;
 import java.awt.Toolkit;
@@ -15,6 +15,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;
+
+import baseClass.Keywords;
 
 public class Environment {
 	
