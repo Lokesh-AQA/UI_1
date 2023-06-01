@@ -12,17 +12,11 @@ public class Keywords extends Environment {
 
 	public void invokebrowser(String data) {
 		try {
-			//WebDriverManager.chromedriver().setup();
-			//ChromeOptions options = new ChromeOptions();
-			//options.addArguments("--incognito");
-			//d = new ChromeDriver(options);
-			
 			MainClass.browserOptions(data);
 			d.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 			d.manage().window().maximize();
-			//d.manage().window().maximize();
-			//d.manage().deleteAllCookies();
-			//log.debug("Browser Opened");
+			d.manage().deleteAllCookies();
+			log.debug("Browser Opened");
 		} catch (Exception e) {
 			log.error("Fail,unable to launch browser: " + data);
 			e.printStackTrace();

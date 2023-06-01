@@ -40,5 +40,7 @@ public class Environment {
 	public static StringSelection strStore;
 	public static  Actions action;
 	public static WebElement element;
+	public static String Testcasename;
+	public static Keywords key;
 	
 }

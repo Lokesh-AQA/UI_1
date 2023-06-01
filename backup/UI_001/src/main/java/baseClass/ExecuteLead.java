@@ -11,21 +11,18 @@ import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
-import org.testng.annotations.Test;
-
 import global.Environment;
 
 public class ExecuteLead extends Environment {
 
 	@SuppressWarnings({ "rawtypes", "incomplete-switch", "unchecked", "resource" })
-	@Test
-	public static void main() throws IOException, InterruptedException, AWTException {
-		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\config\\log4j.properties");
+	public static void fileStream(String Testcasename) throws AWTException, InterruptedException, IOException {
 		a = new ArrayList();
-		Keywords key = new Keywords();
+		key = new Keywords();
+		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\config\\log4j.properties");
 		FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\XL\\Page_1.xlsx");
 		XSSFWorkbook book = new XSSFWorkbook(file);
-		Sheet sh = book.getSheet("Orange");
+		Sheet sh = book.getSheet(Testcasename);
 		Iterator itr = sh.iterator();
 		while (itr.hasNext()) {
 			Row rowitr = (Row) itr.next();
@@ -48,6 +45,10 @@ public class ExecuteLead extends Environment {
 				}
 			}
 		}
+		
+	}
+
+	public static void Operations() throws IOException, InterruptedException, AWTException {
 		for (int i = 0; i < a.size(); i++) {
 			if (a.get(i).equals("InvokeBrowser")) {
 				MainClass.dataIndexValue(i);
@@ -176,5 +177,6 @@ public class ExecuteLead extends Environment {
 				}
 			}
 		}
+		
 	}
 }
