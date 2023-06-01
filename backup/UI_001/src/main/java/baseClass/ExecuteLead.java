@@ -20,7 +20,7 @@ public class ExecuteLead extends Environment {
 		a = new ArrayList();
 		key = new Keywords();
 		PropertyConfigurator.configure(System.getProperty("user.dir") + "\\config\\log4j.properties");
-		FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\XL\\Page_1.xlsx");
+		FileInputStream file = new FileInputStream(System.getProperty("user.dir") + "\\XL\\Functional_Data.xlsx");
 		XSSFWorkbook book = new XSSFWorkbook(file);
 		Sheet sh = book.getSheet(Testcasename);
 		Iterator itr = sh.iterator();
