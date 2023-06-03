@@ -15,6 +15,6 @@ public class Login_Validation extends Environment {
 	public void LoginValidation() throws IOException, InterruptedException, AWTException {
 		Testcasename = "Login_Validation";
 		ExecuteLead.fileStream(Testcasename);
-		ExecuteLead.Operations();
+		ExecuteLead.KeywordsOperations();
 	}
 }

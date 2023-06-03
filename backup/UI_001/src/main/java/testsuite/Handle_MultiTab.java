@@ -15,6 +15,6 @@ public class Handle_MultiTab extends Environment {
 	public void HandleMultiTab() throws IOException, InterruptedException, AWTException {
 		Testcasename = "Handle_MultiTab";
 		ExecuteLead.fileStream(Testcasename);
-		ExecuteLead.Operations();
+		ExecuteLead.KeywordsOperations();
 	}
 }

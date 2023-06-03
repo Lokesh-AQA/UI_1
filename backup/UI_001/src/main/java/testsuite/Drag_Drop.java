@@ -15,6 +15,6 @@ public class Drag_Drop extends Environment {
 	public void DragAndDrop() throws IOException, InterruptedException, AWTException {
 		Testcasename = "Drag_Drop";
 		ExecuteLead.fileStream(Testcasename);
-		ExecuteLead.Operations();
+		ExecuteLead.KeywordsOperations();
 	}
 }

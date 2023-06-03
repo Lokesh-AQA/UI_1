@@ -15,6 +15,6 @@ public class File_Uploads extends Environment {
 	public void FileUploads() throws IOException, InterruptedException, AWTException {
 		Testcasename = "File_Uploads";
 		ExecuteLead.fileStream(Testcasename);
-		ExecuteLead.Operations();
+		ExecuteLead.KeywordsOperations();
 	}
 }

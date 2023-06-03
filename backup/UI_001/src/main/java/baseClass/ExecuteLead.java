@@ -48,7 +48,8 @@ public class ExecuteLead extends Environment {
 		
 	}
 
-	public static void Operations() throws IOException, InterruptedException, AWTException {
+	public static void KeywordsOperations() throws IOException, InterruptedException, AWTException 
+	{
 		for (int i = 0; i < a.size(); i++) {
 			if (a.get(i).equals("InvokeBrowser")) {
 				MainClass.dataIndexValue(i);
